@@ -31,7 +31,7 @@ github_username:  devingfx
 
 # Build settings
 markdown: kramdown
-remote_theme: devingfx/blox-theme-jekyl
+remote_theme: devingfx/blox-theme-jekyll
 
 # Plugins (previously gems:)
 plugins:

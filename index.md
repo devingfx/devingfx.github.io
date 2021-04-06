@@ -146,7 +146,7 @@ about:
 #         Je me suis longuement questionné sur un métier qui me permettrait de faire le lien entre ma personnalité, ma créativité, mon besoin de rigueur, la technique et le manuel. Toutes ces réflexions m’ont amené à conclure que le métier d’accordeur restaurateur de piano en serait ma synthèse.
 
 
-  
+
 # Gallerie
 atelier:
   gallery: _subjects/atelier.md

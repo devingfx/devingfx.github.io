@@ -1,0 +1,24 @@
+- url: "#hero"
+  icon: bx bx-home
+  label: Home
+
+- url: "#about"
+  icon: bx bx-user
+  label: About
+
+- url: "#resume"
+  icon: bx bx-file-blank
+  label: Resume
+
+- url: "#portfolio"
+  icon: bx bx-book-content
+  label: Portfolio
+
+- url: "#services"
+  icon: bx bx-server
+  label: Services
+
+- url: "#contact"
+  icon: bx bx-envelope
+  label: Contact
+

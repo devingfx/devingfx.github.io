@@ -13,15 +13,40 @@ gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 212", group: :jekyll_plugins
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed", "~> 0.12"
-  gem "jemoji"
+
+# Enabled by GitHub Pages and cannot be disabled
+#   gem "jekyll-coffeescript"
+#   gem "jekyll-commonmark-ghpages"
+#   gem "jekyll-default-layout"
+#   gem "jekyll-gist"
+#   gem "jekyll-github-metadata"
+#   gem "jekyll-optional-front-matter"
+#   gem "jekyll-paginate"
+#   gem "jekyll-readme-index"
+#   gem "jekyll-relative-links"
+#   gem "jekyll-titles-from-headings"
+
+# Already included by github-pages gem and cannot be disabled
+#   gem "jekyll-avatar"
+#   gem "jekyll-feed"
+#   gem "jekyll-mentions"
+#   gem "jekyll-redirect-from"
+#   gem "jekyll-remote-theme"
+#   gem "jekyll-seo-tag"
+#   gem "jekyll-sitemap"
+#   gem "jemoji"
+
+# Whitelisted in the source code of github-pages gem
   gem "jekyll-include-cache"
+  gem "jekyll-octicons"
+
+# Other
+  gem "jekyll-feed", "~> 0.12"
   gem "jekyll-algolia"
+  
 end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

@@ -147,7 +147,7 @@ about:
 
 
 
-# Gallerie 
+# Gallerie
 atelier:
   gallery: _subjects/atelier.md
     # photos:

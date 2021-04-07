@@ -17,16 +17,16 @@ header:
   nav:
     align: right
   
-hero:
-  center-text:
-    image: w1920/Acceuil.jpg
-    title: "**Dupont** Jean"
-    texts:
-      - Tester de thèmes
-      - Diplômé de l’école 42 à Lodela
-    actions:
-      - label: Contactez moi
-        url: "#contact"  
+# hero:
+#   center-text:
+#     image: w1920/Acceuil.jpg
+#     title: "**Dupont** Jean"
+#     texts:
+#       - Tester de thèmes
+#       - Diplômé de l’école 42 à Lodela
+#     actions:
+#       - label: Contactez moi
+#         url: "#contact"  
 
 
 # hero:
@@ -59,72 +59,72 @@ hero:
 #         url: "#menu"
 
 
-# Accord
-accord:
-  columns:
-    - size: 7
-      offset: 1
-      content: _subjects/accord.md
-      class: content
-    # - size: 5
-    #   background: assets/img/about.png
+# # Accord
+# accord:
+#   columns:
+#     - size: 7
+#       offset: 1
+#       content: _subjects/accord.md
+#       class: content
+#     # - size: 5
+#     #   background: assets/img/about.png
 
-# Réglage mécanique
-reglage:
-  columns:
-    # - size: 5
-    #   background: assets/img/about.png
-    - size: 7
-      offset: 4
-      content: _subjects/reglage.md
-      class: content
+# # Réglage mécanique
+# reglage:
+#   columns:
+#     # - size: 5
+#     #   background: assets/img/about.png
+#     - size: 7
+#       offset: 4
+#       content: _subjects/reglage.md
+#       class: content
 
-# Harmonisation
-harmonisation:
-  columns:
-    - size: 7
-      offset: 1
-      content: _subjects/harmonisation.md
-      class: content
-    # - size: 5
-    #   background: assets/img/about.png
+# # Harmonisation
+# harmonisation:
+#   columns:
+#     - size: 7
+#       offset: 1
+#       content: _subjects/harmonisation.md
+#       class: content
+#     # - size: 5
+#     #   background: assets/img/about.png
 
-# Réparation
-reparation:
-  columns:
-    # - size: 5
-    #   background: assets/img/about.png
-    - size: 7
-      offset: 4
-      content: _subjects/reparation.md
-      class: content
+# # Réparation
+# reparation:
+#   columns:
+#     # - size: 5
+#     #   background: assets/img/about.png
+#     - size: 7
+#       offset: 4
+#       content: _subjects/reparation.md
+#       class: content
 
-# Restauration, Ébénisterie & Laque
-restauration:
-  columns:
-    - size: 7
-      offset: 1
-      content: _subjects/restauration.md
-      class: content
-    # - size: 5
-    #   background: assets/img/about.png
+# # Restauration, Ébénisterie & Laque
+# restauration:
+#   columns:
+#     - size: 7
+#       offset: 1
+#       content: _subjects/restauration.md
+#       class: content
+#     # - size: 5
+#     #   background: assets/img/about.png
 
-# Le numérique dans l’acoustique
-numerique:
-  columns:
-    # - size: 5
-    #   background: assets/img/about.png
-    - size: 7
-      offset: 4
-      content: _subjects/numerique.md
-      class: content
+# # Le numérique dans l’acoustique
+# numerique:
+#   columns:
+#     # - size: 5
+#     #   background: assets/img/about.png
+#     - size: 7
+#       offset: 4
+#       content: _subjects/numerique.md
+#       class: content
 
 
 
-# Présentation
-about:
-  about:
-    image: assets/img/about.png
+# # Présentation
+# about:
+#   about:
+#     image: assets/img/about.png
   
 #   layout: columns
 
@@ -147,31 +147,31 @@ about:
 
 
 
-# Gallerie
-atelier:
-  gallery: _subjects/atelier.md
+# # Gallerie
+# atelier:
+#   gallery: _subjects/atelier.md
     # photos:
     #   - assets/img/gallery/piano-462320.jpg
     #   - assets/img/gallery/piano-915784.jpg
 
-# Contact
-contact:
-  contact:
-  #   map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1468196.3362798623!2d4.  853396502545295!3d44.05091722310776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.  1!3m3!1m2!1s0x12b668198af953ad%3A0xb71690263d16d1a7!2sProvence-Alpes-C%C3%B4te%20d&#39;  Azur!5e0!3m2!1sfr!2sfr!4v1615932586366!5m2!1sfr!2sfr
-    form:
-      # external: https://docs.google.com/forms/d/e/  1FAIpQLSeJ3XiqkFkXNDCgGeC3CXIov9JMhvVMYz9THLpwqCYZkSOKwQ/viewform?embedded=true
-      # external: https://cloud.p2p.legal/apps/forms/gnyMHL3n5i9y7bxg
-      mailto: contact@exemple.com
-      vars:
-        - name: { size: 6, text: Votre nom }
-        - cc: { size: 6, email: Votre courriel }
-        - subject: { size: 12, text: Sujet, list: [
-              Devis pour un accord,
-              Devis pour un restauration,
-              J'ai piano à donner,
-              Poser une question
-          ]}
-        - body: { size: 12, textarea: Message }
+# # Contact
+# contact:
+#   contact:
+#   #   map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1468196.3362798623!2d4.  853396502545295!3d44.05091722310776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.  1!3m3!1m2!1s0x12b668198af953ad%3A0xb71690263d16d1a7!2sProvence-Alpes-C%C3%B4te%20d&#39;  Azur!5e0!3m2!1sfr!2sfr!4v1615932586366!5m2!1sfr!2sfr
+#     form:
+#       # external: https://docs.google.com/forms/d/e/  1FAIpQLSeJ3XiqkFkXNDCgGeC3CXIov9JMhvVMYz9THLpwqCYZkSOKwQ/viewform?embedded=true
+#       # external: https://cloud.p2p.legal/apps/forms/gnyMHL3n5i9y7bxg
+#       mailto: contact@exemple.com
+#       vars:
+#         - name: { size: 6, text: Votre nom }
+#         - cc: { size: 6, email: Votre courriel }
+#         - subject: { size: 12, text: Sujet, list: [
+#               Devis pour un accord,
+#               Devis pour un restauration,
+#               J'ai piano à donner,
+#               Poser une question
+#           ]}
+#         - body: { size: 12, textarea: Message }
 
 # footer: true
 

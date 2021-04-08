@@ -147,9 +147,9 @@ numerique:
 
 
 
-# # Gallerie
-# atelier:
-#   gallery: _subjects/atelier.md
+# Gallerie
+atelier:
+  gallery: _subjects/atelier.md
     # photos:
     #   - assets/img/gallery/piano-462320.jpg
     #   - assets/img/gallery/piano-915784.jpg

@@ -17,16 +17,16 @@ header:
   nav:
     align: right
   
-# hero:
-#   center-text:
-#     image: w1920/Acceuil.jpg
-#     title: "**Dupont** Jean"
-#     texts:
-#       - Tester de thèmes
-#       - Diplômé de l’école 42 à Lodela
-#     actions:
-#       - label: Contactez moi
-#         url: "#contact"  
+hero:
+  center-text:
+    image: https://picsum.photos/seed/bloc1/1920/1080
+    title: "**Dupont** Jean"
+    texts:
+      - Testeur de thèmes
+      - Diplômé de l’école 42 à Lodela
+    actions:
+      - label: Contactez moi
+        url: "#contact"  
 
 
 # hero:

@@ -69,55 +69,55 @@ accord:
     # - size: 5
     #   background: assets/img/about.png
 
-# # Réglage mécanique
-# reglage:
-#   columns:
-#     # - size: 5
-#     #   background: assets/img/about.png
-#     - size: 7
-#       offset: 4
-#       content: _subjects/reglage.md
-#       class: content
+# Réglage mécanique
+reglage:
+  columns:
+    # - size: 5
+    #   background: assets/img/about.png
+    - size: 7
+      offset: 4
+      content: _subjects/reglage.md
+      class: content
 
-# # Harmonisation
-# harmonisation:
-#   columns:
-#     - size: 7
-#       offset: 1
-#       content: _subjects/harmonisation.md
-#       class: content
-#     # - size: 5
-#     #   background: assets/img/about.png
+# Harmonisation
+harmonisation:
+  columns:
+    - size: 7
+      offset: 1
+      content: _subjects/harmonisation.md
+      class: content
+    # - size: 5
+    #   background: assets/img/about.png
 
-# # Réparation
-# reparation:
-#   columns:
-#     # - size: 5
-#     #   background: assets/img/about.png
-#     - size: 7
-#       offset: 4
-#       content: _subjects/reparation.md
-#       class: content
+# Réparation
+reparation:
+  columns:
+    # - size: 5
+    #   background: assets/img/about.png
+    - size: 7
+      offset: 4
+      content: _subjects/reparation.md
+      class: content
 
-# # Restauration, Ébénisterie & Laque
-# restauration:
-#   columns:
-#     - size: 7
-#       offset: 1
-#       content: _subjects/restauration.md
-#       class: content
-#     # - size: 5
-#     #   background: assets/img/about.png
+# Restauration, Ébénisterie & Laque
+restauration:
+  columns:
+    - size: 7
+      offset: 1
+      content: _subjects/restauration.md
+      class: content
+    # - size: 5
+    #   background: assets/img/about.png
 
-# # Le numérique dans l’acoustique
-# numerique:
-#   columns:
-#     # - size: 5
-#     #   background: assets/img/about.png
-#     - size: 7
-#       offset: 4
-#       content: _subjects/numerique.md
-#       class: content
+# Le numérique dans l’acoustique
+numerique:
+  columns:
+    # - size: 5
+    #   background: assets/img/about.png
+    - size: 7
+      offset: 4
+      content: _subjects/numerique.md
+      class: content
 
 
 

@@ -1,5 +1,5 @@
 ---
-image: w1920/Accord.jpg
+image: https://picsum.photos/seed/bloc1/1920/1080
 image-position: 71% 50%
 ---
 

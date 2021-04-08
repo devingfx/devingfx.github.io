@@ -1,5 +1,5 @@
 ---
-image: w1920/Numerique.jpg
+image: https://picsum.photos/seed/bloc3/1920/1080
 ---
 
 ## Le numérique dans l’acoustique

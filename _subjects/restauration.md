@@ -1,5 +1,5 @@
 ---
-image: w1920/Restauration.jpg
+image: https://picsum.photos/seed/bloc6/1920/1080
 ---
 
 ## Restauration, Ébénisterie & Laque

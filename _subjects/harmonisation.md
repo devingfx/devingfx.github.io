@@ -1,5 +1,5 @@
 ---
-image: w1920/Harmonisation.jpg
+image: https://picsum.photos/seed/bloc2/1920/1080
 ---
 
 ## Harmonisation

@@ -1,5 +1,5 @@
 ---
-image: w1920/Reglage.jpg
+image: https://picsum.photos/seed/bloc4/1920/1080
 image-position: 71% 50%
 ---
 

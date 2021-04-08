@@ -59,15 +59,15 @@ header:
 #         url: "#menu"
 
 
-# # Accord
-# accord:
-#   columns:
-#     - size: 7
-#       offset: 1
-#       content: _subjects/accord.md
-#       class: content
-#     # - size: 5
-#     #   background: assets/img/about.png
+# Accord
+accord:
+  columns:
+    - size: 7
+      offset: 1
+      content: _subjects/accord.md
+      class: content
+    # - size: 5
+    #   background: assets/img/about.png
 
 # # Réglage mécanique
 # reglage:

@@ -1,14 +1,14 @@
 ---
-image: https://picsum.photos/seed/0/picsum/1920/1080
+image: https://picsum.photos/seed/gallery/1920/1080
 photos:
-  - https://picsum.photos/seed/1/picsum/800/600
-  - https://picsum.photos/seed/2/picsum/800/600
-  - https://picsum.photos/seed/3/picsum/800/600
-  - https://picsum.photos/seed/4/picsum/800/600
-  - https://picsum.photos/seed/5/picsum/800/600
-  - https://picsum.photos/seed/6/picsum/800/600
-  - https://picsum.photos/seed/7/picsum/800/600
-  - https://picsum.photos/seed/8/picsum/800/600
+  - https://picsum.photos/seed/pic1/800/600
+  - https://picsum.photos/seed/pic2/800/600
+  - https://picsum.photos/seed/pic3/800/600
+  - https://picsum.photos/seed/pic4/800/600
+  - https://picsum.photos/seed/pic5/800/600
+  - https://picsum.photos/seed/pic6/800/600
+  - https://picsum.photos/seed/pic7/800/600
+  - https://picsum.photos/seed/pic8/800/600
 ---
 
 ## Quelques photos **dans l'atelier**

@@ -20,7 +20,7 @@ header:
 hero:
   center-text:
     image: https://picsum.photos/seed/bloc1/1920/1080
-    title: "**Dupont** Jean"
+    title: "**Dupond** Jean"
     texts:
       - Testeur de thèmes
       - Diplômé de l’école 42 à Lodela

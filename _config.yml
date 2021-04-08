@@ -95,7 +95,7 @@ tracking:
 
 # Build settings
 markdown: kramdown
-remote_theme: devingfx/blox-theme-jekyll@dev
+remote_theme: devingfx/blox-theme-jekyll@dev-bloc-deps
 
 collections:
   - subjects
